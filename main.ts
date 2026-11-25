@@ -7,7 +7,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const LIE = "I invented every citation.";
+const LIE = "I fabricated every citation.";
 const MAX_CHARS = 88;
 const MAX_WORDS = 5;
 
